@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         //asdasd
         
     }
-    
+    override func viewWillDisappear(_ animated: Bool) {
+        //kk
+    }
 }
 
